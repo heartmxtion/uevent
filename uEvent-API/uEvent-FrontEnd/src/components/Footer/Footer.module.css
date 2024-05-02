@@ -1,0 +1,23 @@
+.footer {
+    color: #999;
+    background: #ffffff;
+    position: fixed;
+    width: 100%;
+    bottom: 0px;
+    z-index: 2;
+    padding: 20px;
+    font-size: 1rem;
+    border-top: 1px solid #ccc;
+  }
+   
+.footer a {
+    color: #999;
+}
+ 
+ 
+footer > div {
+    margin-right: 40px;
+    display: flex;
+    justify-content: space-between;
+}
+   
